@@ -1,0 +1,91 @@
+body {
+  background: orangered; }
+
+.col-1 {
+  width: 8.3333333333%; }
+
+.col-2 {
+  width: 16.6666666667%; }
+
+.col-3 {
+  width: 25%; }
+
+.col-4 {
+  width: 33.3333333333%; }
+
+.col-5 {
+  width: 41.6666666667%; }
+
+.col-6 {
+  width: 50%; }
+
+.col-7 {
+  width: 58.3333333333%; }
+
+.col-8 {
+  width: 66.6666666667%; }
+
+.col-9 {
+  width: 75%; }
+
+.col-10 {
+  width: 83.3333333333%; }
+
+.col-11 {
+  width: 91.6666666667%; }
+
+.col-12 {
+  width: 100%; }
+
+.blue-bg {
+  background-color: blue; }
+
+.black-bg {
+  background-color: black; }
+
+.red-bg {
+  background-color: red; }
+
+div {
+  width: 200px;
+  height: 200px; }
+
+.text-1 {
+  font-size: 5px; }
+
+.text-2 {
+  font-size: 10px; }
+
+.text-3 {
+  font-size: 15px; }
+
+.text-4 {
+  font-size: 20px; }
+
+.text-5 {
+  font-size: 25px; }
+
+.text-6 {
+  font-size: 30px; }
+
+.text-7 {
+  font-size: 35px; }
+
+.text-8 {
+  font-size: 40px; }
+
+.text-9 {
+  font-size: 45px; }
+
+.text-10 {
+  font-size: 50px; }
+
+.info, .info-important {
+  width: 200px;
+  border: 1px solid black;
+  margin: 0 auto; }
+
+.info-important {
+  background-color: magenta; }
+
+/*# sourceMappingURL=stylesheet.css.map */
